@@ -4,7 +4,8 @@
 # FitTrack - Fitness Tracker Application
 
 A modern, responsive React JS application to track your daily fitness activities. Log workouts, monitor calories burned, and see your progress at a glance.
-
+## Project Link:
+link: ** https://fit-trrack.vercel.app/**
 ## Features
 - **Dashboard**: Log activities with name, duration, and calories.
 - **Activity Management**: Add, Edit, and Delete your workout logs.
